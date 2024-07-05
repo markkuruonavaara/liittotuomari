@@ -1,0 +1,17 @@
+site_name: Kilpakävelyn liittotuomarikoulutus
+theme: 
+  name: material
+  language: fi
+nav:
+  - 'Tuomitseva tuomari': 'tuomari_kertaus.md'
+  - 'Ylituomari': 'ylituomari.md'
+  - 'Ylituomarin avustajat': 'avustajat.md'
+  - 'Muita sääntöjä': 'muita_saantoja.md'
+  - 'Kilpailujärjestelyt': 'kilpailujarjestelyt.md'
+  - 'Videoharjoituksia': 'videoharjoituksia.md'
+  - 'Säännöt 2024': 'saannot.md'
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list

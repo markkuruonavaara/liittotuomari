@@ -16,6 +16,11 @@ Maantie:  10 km, 20 km, 35 km ja 50 km
 ## Kilpakävelyn määritelmä 
 [54.2](){#54.2} Kilpakävely on etenemistä askelia ottaen niin, että kävelijä säilyttää kosketuksen maahan siten, ettei ihmissilmällä havaittavaa kosketuksen irtaantumista esiinny. Etummaisen jalan täytyy olla suorana (ei taivutettuna polvesta eli ns. ”koukkupolvi”) maakosketuksen alkamishetkestä lähtien siihen asti, kun se on pystysuorassa asennossa. 
 
+<figure markdown="span">
+  ![](./img/TR54.2.jpg)
+  <figcaption>Kuvassa: Oikea tekniikka – Kosketus irtaantuu - Koukkupolvi </figcaption>
+</figure>
+
 _Kommentti: Yllä olevassa määritelmässä sanat ”ihmissilmällä havaittavaa” ovat erittäin tärkeät. Käytännön syistä sääntö on ollut pakko muotoilla sellaiseksi, että tuomaritoiminta kilpailuissa olisi mahdollista hoitaa ihmisvoimin. Näin ollen kävely on kosketuksen osalta puhdasta niin kauan kun normaali ihmissilmä ei havaitse siinä irtaantumista. Jos irtaantumisvaihe on noin 60 millisekuntia tai sitä lyhyempi, ihminen ei voi sitä varmuudella havaita._
 
 ## Tuomarityöskentely 
@@ -25,8 +30,6 @@ _Kommentti: Yllä olevassa määritelmässä sanat ”ihmissilmällä havaittava
 
 [54.3.2](){#54.3.2} Kaikkien tuomarien tulee työskennellä itsenäisesti ja heidän on tehtävä päätöksensä omiin näköhavaintoihinsa (”human eye”) perustuen. 
  
-Kuvassa: Oikea tekniikka – Kosketus irtaantuu - Koukkupolvi 
-
 [54.3.3](){#54.3.3} Mikäli mahdollista, kävelytuomarit pitää nimetä säännön CR9 mukaisesti. 
 
 [54.3.4](){#54.3.4} Maantiekilpailuissa tulisi normaalisti olla vähintään kuusi, mutta enintään yhdeksän tuomaria ylituomari mukaan luettuna. 
@@ -146,7 +149,8 @@ johtajalta (refereeltä). Jos rikkomus toistuu, lajin johtaja suorittaa kilpaili
 [54.11.1](){#54.11.1} Kilpailussa käytetyn kierroksen (”lenkin”) tulee olla vähintään 1 km ja enintään 2 km pitkä. Kilpailuissa, joiden lähtö ja maali ovat stadionilla, tulisi reitti sijoittaa mahdollisimman lähelle stadionia. 
 
 [54.11.2](){#54.11.2} Maanteillä käytettävät reitit tulee mitata säännön TR55.3 mukaisesti. 
-Kilpailun järjestäminen 
+
+## Kilpailun järjestäminen 
 
 [54.12](){#54.12} Kilpailuissa urheilija voi kilpailun virallisen toimihenkilön luvalla ja valvonnassa poistua väliaikaisesti merkityltä reitiltä edellyttäen, että hän ei niin tehdessään lyhennä käveltävänä olevaa matkaansa. 
 

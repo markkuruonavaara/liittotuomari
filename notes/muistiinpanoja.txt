@@ -7,4 +7,14 @@ Sääntöviittaukset linkeiksi:
 - search: TR(54[.][0-9]+([.][0-9]+)*)
 - replace: [$0](#$1)
 
+Huomautukset kursiiville:
+- search: HUOM\..+$
+- replace: *$0*
+
+Kommentit kursiiville:
+- search: Kommentti:\..+$
+- replace: *$0*
+
+Kahdesta viimeisestä pitäisi saada vielä lopun whitespace pois
+
 (https://regex101.com/)

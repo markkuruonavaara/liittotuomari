@@ -5,7 +5,7 @@ theme:
 nav:
   - 'Tuomitseva tuomari': 'tuomari_kertaus.md'
   - 'Ylituomari': 'ylituomari.md'
-  - 'Ylituomarin avustajat': 'avustajat.md'
+  - 'Ylituomarin toimintaohjeita': 'ylituomarin_toiminta.md'
   - 'Muita sääntöjä': 'muita_saantoja.md'
   - 'Kilpailujärjestelyt': 'kilpailujarjestelyt.md'
   - 'Videoharjoituksia': 'videoharjoituksia.md'

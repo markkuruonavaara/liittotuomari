@@ -9,26 +9,18 @@
 - Järjestyksen valvojat/reitin valvojat
 - Lääkintähenkilöt
 
-## Lajinjohtajan vastuualueet
+## Vastuunjako
 
-- Toimitsijat 
-- Ajanotto
-- Kierroslasku
-- Ajanottorajojen valvonta
-- Rata/reittivalvonta (ratarikot, reitiltä poistumiset, juoma-asemien valvonta)
-- Juoma- ja sieniasemien varustelu ja toiminta
-- Reitin turvallisuus
-- Tulosten tarkistus ja hyväksyntä (DNF, DQ merkinnät ja mahdolliset aikasakkolisäykset)
-
-## Kävelyjen ylituomarin vastuualueet
-
-- Tuomaripalaverit
-- Kävelytuomareiden sijoittelu
-- Hylkäykset kävelysäännön TR 54.7mukaisesti
-- Aikasakkosäännön valvonta ja urheilijoiden ohjaus alueelle. 
-- Varoitustaulun käytön valvonta
-- Kävelytuomaripöytäkirjan laadinta
-- Tulosten tarkistus (hylätyt urheilijat, aikasakot)
+| Lajinjohtajan vastuualueet                                                             | Kävelyjen ylituomarin vastuualueet                          |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Toimitsijat                                                                            | Tuomaripalaverit                                            |
+| Ajanotto                                                                               | Kävelytuomareiden sijoittelu                                |
+| Kierroslasku                                                                           | Hylkäykset kävelysäännön TR 54.7 mukaisesti                 |
+| Ajanottorajojen valvonta                                                               | Aikasakkosäännön valvonta ja urheilijoiden ohjaus alueelle. |
+| Rata/reittivalvonta (ratarikot, reitiltä poistumiset, juoma-asemien valvonta)          | Varoitustaulun käytön valvonta                              |
+| Juoma- ja sieniasemien varustelu ja toiminta                                           | Kävelytuomaripöytäkirjan laadinta                           |
+| Reitin turvallisuus                                                                    | Tulosten tarkistus (hylätyt urheilijat, aikasakot)          |
+| Tulosten tarkistus ja hyväksyntä (DNF, DQ merkinnät ja mahdolliset aikasakkolisäykset) |                                                             |
 
 ## Tuomareiden lukumäärä
 
@@ -70,7 +62,7 @@
 ![](./img/aikasakkoalue_radalla.png)
 ![](./img/aikasakkoalue_maantiella.png)
 
-### Tarvittavat toimitsijat ja tehtävät
+### Aikasakkoalueen toimitsijat ja tehtävät
 
 - Kaksi toimitsijaa
 - Ylituomarin apulainen
@@ -116,6 +108,8 @@
 - Tasainen ( ei kaivoja, korokkeita eikä hiekkaa)
 - Riittävän leveä 
     - tilaa varoitustaululle, aikasakkoalueelle, tuomareille, juoma- ja sieniasemille, ajanottajille, kierroslaskijoille, lääkintähuollolle
+
+![](./img/reittisuunnitelma.png)
 
 ![](./img/kaantopaikka.jpg)
 

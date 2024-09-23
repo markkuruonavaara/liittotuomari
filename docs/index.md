@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Kilpakävelyn liittotuomarikoulutus
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Tämä on koulutusmateriaali kilpakävelyn liittotason tuomarikoulutukseen. 
 
-## Commands
+## Tuomaritasot
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Piirituomari
 
-## Project layout
+Piirituomarit toimivat kävelytuomareina piiritasolla seurojen omissa kisoissa,pm-kisoissa ja kansallisissa kisoissa 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Vaatimuksena on piirituomarikoulutuuksen suorittaminen. Piiritason tuomarikoulutuksesta vastaavat piirit. 
+
+### Liittotuomari
+
+Liittotuomarit toimivat piiritason lisäksi SM-kisoissa ja maaotteluissa kävelytuomareina ja ylituomareina. Lisäksi he toimivat kisajärjestäjien neuvonantajina kävelykilpailujen järjestämiseen liittyvissä kysymyksissä.
+
+Vaatimuksena on liittotuomarikoulutuksen suorittaminen. Liittotason tuomairkouluksesta vastaa Suomen Urheiluliitto.
+
+### Word Athletics:n (WA) kansainväliset tuomarit: Gold, Silver, Bronze
+
+Kansainväliset tuomarit toimivat liittotason lisäksi ranking-kisoissa kansainvälisenä tuomarina ja tasonsa mukaisissa kansainvälisissä kisoissa: Bronze Suomessa, Silver Euroopassa ja Gold myös MM-kisoissa ja olympialaisissa.
+
+Vaatimuksena on WA:n koulutuksen suorittaminen ja tentti.
+
+

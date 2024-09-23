@@ -4,11 +4,11 @@ Ylituomari toimii useimmiten kilpailun teknisenä tuomarina (arvokilpailut ja S
 
 Kansallisella tasolla ylituomari voi myös toimia yhtenä tuomitsevana tuomarina ylituomarin tehtävien lisäksi.
 
-## Ylituomaria koskevat säännöt [TD54.4](./saannot.md#54.4.)
+## Ylituomaria koskevat säännöt [TD54.4](./saannot.md#54.4)
 
 Kävelyn ylituomari toimii kilpailun kulkua ja tuomareiden työskentelyä valvovana toimihenkilönä.
 
-Tuomitsevana tuomarina hän saa toimia vain tietyissä kilpailuissa viimeisen sadan metrin matkalla. Tästä kerrotaan tarkemmin myöhemmin kohdassa [Ylituomarin oikeus hylätä kilpailija yksin](#ylituomarin-oikeus-hylata-kilpailija-yksin).
+Tuomitsevana tuomarina hän saa toimia vain tietyissä kilpailuissa viimeisen sadan metrin matkalla. Tästä kerrotaan tarkemmin myöhemmin kohdassa [Ylituomarin oikeus hylätä kilpailija yksin](#ylituomarin-oikeus-hylata-kilpailija-yksin-tr5441).
 
 ### Hylkäys ja aikasakko [TD54.7](./saannot.md/#54.7)
 

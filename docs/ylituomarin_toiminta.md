@@ -19,7 +19,7 @@ Ylituomari avustaa kisajärjestäjää kilpailujen suunnitteluvaiheessa:
 - Lähettitoiminnan suunnittelu (yleiset pyörälähetit vai henkilökohtaiset)
 - Muut tarvittavat toimitsijat
 - Sihteerin ja varoitustaulun paikka
-- Sakkoalue 
+- Aikasakkoalue 
 - Juoma- ja virvoitusasemien sijainti ja tarve
 
 ## Valmistelut ennen kisapäivää
@@ -45,7 +45,7 @@ Ylituomarin tehtävät kisapäivänä ovat:
 
 ### Valmistelut ennen alkupalaveria
 
-- Käy tarkastamassa/valitse sakkoalueen paikka.
+- Käy tarkastamassa/valitse aikasakkoalueen paikka.
 - Sijoita sihteerin paikka ja varoitustaulu sopivasti, noin 80 m ennen maalia
 - Tarkista muutenkin olosuhteet kentällä/radalla.
 - Varmista informaation kulku kilpailun johtajalle ja tulospalveluun.
@@ -78,14 +78,14 @@ Ylituomarin tehtävät kisapäivänä ovat:
 
 - Kerro ennen lähtöä kilpailijoille mm. missä hylkäystaulu sijaitsee sekä muita teknisiä asioita kuten montako kierrosta maantiekilpailussa kävellään kentällä ennen poistumista tieradalle ja montako stadionilla saavuttaessa maaliin. 
 - Nuorten kisoissa pidä aina kilpailijoille puhuttelu lähtöviivalla: kerro, missä varoitustaulu sijaitsee, käy pikainen sääntökertaus, esittele huomautuslätkät, sekä varmista, että kaikilla polvet näkyvät
-- Varmista kilpailijoiden vaatetus (vaatteet eivät saa estää tuomitsemista, TR xxx)
+- Varmista kilpailijoiden vaatetus. Vaatteet eivät saa estää tuomitsemista (TR5.1)
 - Varmista, että kilpailijoilla on numerolaput niin, että tuomarit voivat saada numerosta selvän vaivatta
 
 ### Kisan aikana
 
 #### Sijoittuminen
 
-Sijoitu sopivasti niin, että näet kisan etenemisen sekä varoitustaulun, ja saat pidettyä yhteyden sihteeriin, varoitustauluun ja sakkoalueeseen.
+Sijoitu sopivasti niin, että näet kisan etenemisen sekä varoitustaulun, ja saat pidettyä yhteyden sihteeriin, varoitustauluun ja aikasakkoalueeseen.
 
 SM-kisoissa loppukirien lähestyessä: sijoitu kisan lopulla maalin läheisyyteen niin, että tarvittaessa voit käyttää ylituomarin erityisoikeutta hylätä kilpailija loppukirissä.
 
@@ -103,4 +103,13 @@ Huolehdi, että kolmen punaisen jälkeen kilpailija ohjataan aikasakkoalueelle, 
 
 Huolehdi, että hylätylle kilpailijalle ilmoitetaan hylkäyksestä mahdollisimman nopeasti. Muistithan varmistaa, että punaiset on tulleet eri tuomareilta! 
 
-Informoi refereetä, pienemmissä kisoissa tulospalvelua hylkäyksistä.
+Informoi refereetä, pienemmissä kisoissa tulospalvelua, hylkäyksistä ja mahdollisista maaliintulon jälkeen määrätyistä aikasakoista.
+
+### Kisan jälkeen
+
+Tuomaritiimin jälkipalaverissa
+
+- käydään kisan tapahtumat ja pöytäkirja läpi
+- keskustellaan kisan kokemuksista, erityisesti toisistaan kovin poikkeavista tuomioista
+
+Loppupalaveri on oppimistapahtuma, jossa tuomarit voivat oppia toisiltaan ja kokeneemmat tuomarit voivat jakaa osaamistaan vähemmän tuominneille.

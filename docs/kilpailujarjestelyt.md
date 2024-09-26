@@ -24,12 +24,14 @@
 
 ## Tuomareiden lukumäärä
 
-- Ratakilpailut; 5+ylituomari
-- Maantiekilpailut; 5-8+ylituomari (reitin muoto ja pituus huomioitava)
+- Ratakilpailuissa normaalisti 5 tuomaria sekä ylituomari
+- Maantiekilpailutissa 5-8 tuomaria sekä ylituomari (reitin muoto ja pituus huomioitava)
 - SM-kisoissa
-  - kävelyn ylituomari SUL:n kilpailuvaliokunnan nimeämä
-  - Muut tuomarit kävelytuomaripaneelista (suositus)
-
+    - SUL:n kilpailuvaliokunta nimeää ylituomarin.
+    - Kilpailunjärjestäjä hankkii muut tuomarit. Suositus on nimetä heidät SUL:n kävelytuomaripaneelista.
+    - Tuomitsevista tuomareista vähintään puolet on oltava SUL:n paneelista.
+    - Yleisen sarjan SM-kisoissa vähintään kolmen tuomarin on oltava kansaivälisiä tuomareita, jotta kisa on ranking-kelpoinen. 
+   
 ## Kävelytuomarin varusteet
 
 ![](./img/tuomarin_hihanauha.png){ align=right }
@@ -104,7 +106,7 @@
 
 - Reitin pituus 1-2 km
 - WA:n A -tai B-mittaajan mittaama (tilastokelpoinen tulos)
-- Kääntöpaikat; suositus 7,5 m säde (?)
+- Kääntöpaikat: suositushalkaisija 7 m, minimi 5 m.
 - Tasainen ( ei kaivoja, korokkeita eikä hiekkaa)
 - Riittävän leveä 
     - tilaa varoitustaululle, aikasakkoalueelle, tuomareille, juoma- ja sieniasemille, ajanottajille, kierroslaskijoille, lääkintähuollolle

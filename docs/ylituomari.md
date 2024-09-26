@@ -4,13 +4,13 @@ Ylituomari toimii useimmiten kilpailun teknisenä tuomarina (arvokilpailut ja S
 
 Kansallisella tasolla ylituomari voi myös toimia yhtenä tuomitsevana tuomarina ylituomarin tehtävien lisäksi.
 
-## Ylituomaria koskevat säännöt [TD54.4](./saannot.md#54.4)
+## Ylituomaria koskevat säännöt [TR54.4](./saannot.md#54.4)
 
 Kävelyn ylituomari toimii kilpailun kulkua ja tuomareiden työskentelyä valvovana toimihenkilönä.
 
 Tuomitsevana tuomarina hän saa toimia vain tietyissä kilpailuissa viimeisen sadan metrin matkalla. Tästä kerrotaan tarkemmin myöhemmin kohdassa [Ylituomarin oikeus hylätä kilpailija yksin](#ylituomarin-oikeus-hylata-kilpailija-yksin-tr5441).
 
-### Hylkäys ja aikasakko [TD54.7](./saannot.md/#54.7)
+### Hylkäys ja aikasakko [TR54.7](./saannot.md/#54.7)
 
 Kilpailun säännöissä voidaan määrätä, että sovelletaan aikasakkosääntöä. Tällöin säännöt ovat erilaiset.
 
@@ -55,7 +55,7 @@ Jos ilmoitusta hylkäämisestä ei ole voitu toimittaa kilpailijalle kilpailun a
 
 ### Ylituomarin oikeus hylätä kilpailija yksin [TR54.4.1](./saannot.md#54.4.1)
 
-Sääntöjen mukaan tietyissä arvokilpailuissa, joihin sisältyvät mm. olympia-, MM- ja EM-kisat, ylituomarilla on oikeus omalla päätöksellään hylätä kilpailija viimeisten 100 metrin matkalla siitä riippumatta, onko tälle annettu muita hylkäysesityksiä tai ei, jos kyseisen kilpailijan kävely on kävelyn määritelmän vastaista,
+Sääntöjen mukaan kaikissa WA:n ranking-kisoissa ylituomarilla on oikeus omalla päätöksellään hylätä kilpailija viimeisten 100 metrin matkalla siitä riippumatta, onko tälle annettu muita hylkäysesityksiä tai ei, jos kyseisen kilpailijan kävely on kävelyn määritelmän vastaista,
 
 Ylituomarin omalla päätöksellä hylätyn kilpailijan sallitaan kävellä maaliin asti ja hänelle otetaan aika. Ylituomarin tai hänen avustajansa tulee ilmoittaa kilpailijalle hylkäyksestä mahdollisimman nopeasti maaliintulon jälkeen näyttämällä hänelle punaista merkkilaikkaa.
 

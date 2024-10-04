@@ -103,8 +103,15 @@ Kun kilpailija on hylätty, hän kirjaa pöytäkirjaan tiedot hylkäyksestä yli
 Jos kilpailussa on aikasakko, hän kirjaa pöytäkirjaan tiedot aikasakosta 
 
 Kilpailun jälkeen sihteeri täydentää pöytäkirjaan tuomarien omista pöytäkirjoista tiedot annetuista huomautuksista.
+<figure markdown="span">
+  ![](./img/poytakirja_espoo_sm-viestit_2024.jpg)
+  <figcaption>Esimerkki suomalaisen ratakisan pöytäkirjasta</figcaption>
+</figure>
 
-Ylituomarin pöytäkirja: esimerkki
+<figure markdown="span">
+  ![](./img/poytakirja_espoo_u23_2023.jpg)
+  <figcaption>Esimerkki kansainvälisen maantiekisan pöytäkirjasta</figcaption>
+</figure>
 
 ### Varoitustaulun hoitaja
 

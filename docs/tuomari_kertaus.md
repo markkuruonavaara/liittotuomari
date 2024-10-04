@@ -13,6 +13,18 @@ WA – yleisurheilun säännöt, sääntö TR 54 kilpakävely
     ![Koukkupolvi](./img/koukkupolvi.png)
     ![Maakosketus ei säily](./img/maakosketus.png)
 
+??? note "Huomautus: Moderni kilpakävelytekniikka"
+
+      1. Hetki, jolloin edellisen askeleen ponnistava jalka irtoaa radan pinnasta “Toe-Off”. Aloittaa uuden yksittäisen askeleen
+      2. Lentovaihe: kun molemmat jalat ovat irti radasta yhtä aikaa (Loss-of-Contact tai LOC vaihe)
+      3. Kantaisku: hetki, jolloin heilahtava jalka koskettaa radan pintaa
+      4. Etutukivaihe: kantaiskusta hetkeen, kun kävelijän massakeskipiste kulkusuuntaan nähden on joko tukipisteen takana tai juuri tulossa tukipisteen päälle
+      5. Pystytuki: hetki, jolloin massakeskipiste on tarkalleen tukipisteen päällä
+      6. Takatukivaihe: aika, jolloin tukipiste on kävelijän massakeskipisteen takana.
+      7. Toe-Off: ponnistava jalka irtoaa radasta. Päättää yksittäisen askeleen (askelsyklin puolikkaan)
+
+    ![](./img/kilpakavelyaskel.jpg)
+
 ### Vakiomatkat TR 54.1
 
 - 200m rata: 3000 m, 5000 m 

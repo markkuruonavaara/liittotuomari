@@ -24,14 +24,21 @@
 
 ## Tuomareiden lukumäärä
 
-- Ratakilpailuissa normaalisti 5 tuomaria sekä ylituomari
-- Maantiekilpailutissa 5-8 tuomaria sekä ylituomari (reitin muoto ja pituus huomioitava)
-- SM-kisoissa
-    - SUL:n kilpailuvaliokunta nimeää ylituomarin.
-    - Kilpailunjärjestäjä hankkii muut tuomarit. Suositus on nimetä heidät SUL:n kävelytuomaripaneelista.
-    - Tuomitsevista tuomareista vähintään puolet on oltava SUL:n paneelista.
-    - Yleisen sarjan SM-kisoissa vähintään kolmen tuomarin on oltava kansaivälisiä tuomareita, jotta kisa on ranking-kelpoinen. 
-   
+Ratakilpailuissa on normaalisti 5 tuomitsevaa tuomaria sekä ylituomari.
+
+Maantiekilpailuissa on 5-8 tuomitsevaa tuomaria sekä ylituomari. Tuomarien määrän määrittämisessä on huomioitava reitin muoto ja pituus. 
+
+### Tuomarit SM-kisoissa
+
+SUL:n kilpailuvaliokunta nimeää ylituomarin kaikkiin SM-kisoihin. 
+
+Kilpailunjärjestäjä hankkii muut tuomarit. Suositus on nimetä heidät SUL:n kävelytuomaripaneelista. 
+
+Mestaruuskilpailusääntöjen mukaan:
+
+- Vähintään puolet tuomareista (ylituomari mukaan lukien) on oltava SUL:n kilpakävelytuomaripaneelista (tai kansainvälisiä tuomareita).
+- Yleisen sarjan SM-kisojen kävelykilpailut on järjestettävä WA:n ranking-kilpailuina. Tällöin vähintään kolmen tuomitsevan tuomarin on oltava kansainvälisiä tuomareita, jotta kisa olisi ranking-kelpoinen. 
+ 
 ## Kävelytuomarin varusteet
 
 ![](./img/tuomarin_hihanauha.png){ align=right }

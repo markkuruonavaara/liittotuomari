@@ -24,11 +24,17 @@ Ylituomari avustaa kisajärjestäjää kilpailujen suunnitteluvaiheessa:
 
 ## Valmistelut ennen kisapäivää
 
-- Varmista pöytäkirjojen olemassaolo, kopioi tarvittaessa.
-- Varmista, että kirjoitusalustat, kynät, varoitustaulu ja muu tarpeellinen on olemassa ja löytyvillä.
-- Suunnittele tuomarien toiminta-alueet
-  - Kokeneet ja kokemattomammat joka toinen, kansainväliset tuomarit tasaisesti reitille
-  - Mahdollinen tuomarien kierrätys ja siirtymät loppusuoralle
+Varmista yhdessä kilpailunjärjestäjän kanssa
+
+  - pöytäkirjojen olemassaolo, kopioi tarvittaessa
+  - kirjoitusalustat, kynät, varoitustaulu ja muu tarpeellinen on olemassa ja löytyvillä
+
+Suunnittele tuomarien toiminta-alueet ja sijoittelu. Suunnittelussa huomioon otettavia seikkoja:
+
+  - Kokeneet ja kokemattomammat tuomarit kannattaa sijoittaa vuorotellen.
+  - Kansainväliset tuomarit kannattaa sijoittaa tasaisesti reitille.
+  - Onko tarvetta vaihtaa tuomarien paikkoja kisan aikana tai lähtöjen välillä? 
+  - Tuomarien siirtymät loppusuoralle kisan loppuvaiheessa.
 
 Ilmoita tuomareille ja kisajärjestäjälle aloituspalaverin aika ja paikka. Kisajärjestäjä välittää tiedon lajijohtajalle ja kisan toimitsijoille.
 
@@ -105,9 +111,15 @@ Huolehdi, että hylätylle kilpailijalle ilmoitetaan hylkäyksestä mahdollisimm
 
 Informoi refereetä, pienemmissä kisoissa tulospalvelua, hylkäyksistä ja mahdollisista maaliintulon jälkeen määrätyistä aikasakoista.
 
-### Kisan jälkeen
+Välittömästi kilpailun päätyttyä 
 
-Tuomaritiimin jälkipalaverissa
+- varmista, että varoituskortteja ei enää ole tulossa tuomareilta
+- tarkista pöytäkirjat yhdessä sihteerin kanssa
+- toimita allekirjoitetut pöytäkirjat kilpailukansliaan
+ 
+### Kilpailun jälkeen
+
+Kilpailun jälkeen ylituomari pitää tuomaritiimin loppupalaverin, jossa
 
 - käydään kisan tapahtumat ja pöytäkirja läpi
 - keskustellaan kisan kokemuksista, erityisesti toisistaan kovin poikkeavista tuomioista

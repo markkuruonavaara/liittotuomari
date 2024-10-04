@@ -50,7 +50,16 @@
     
     
     
-  </head>
+   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
   
   
     <body dir="ltr">
@@ -109,43 +118,6 @@
       <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Hae" placeholder="Hae" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Haku">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Tyhjää" aria-label="Tyhjää" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Aloitetaan hakua
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
   </nav>
@@ -340,6 +312,21 @@
       Tuomareiden lukumäärä
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Tuomareiden lukumäärä">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tuomarit-sm-kisoissa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tuomarit SM-kisoissa
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -547,6 +534,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Tuomareiden lukumäärä">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tuomarit-sm-kisoissa" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tuomarit SM-kisoissa
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -723,19 +725,18 @@
 </tbody>
 </table>
 <h2 id="tuomareiden-lukumaara">Tuomareiden lukumäärä</h2>
+<p>Ratakilpailuissa on normaalisti 5 tuomitsevaa tuomaria sekä ylituomari.</p>
+<p>Maantiekilpailuissa on 5-8 tuomitsevaa tuomaria sekä ylituomari. Tuomarien määrän määrittämisessä on huomioitava reitin muoto ja pituus. </p>
+<h3 id="tuomarit-sm-kisoissa">Tuomarit SM-kisoissa</h3>
+<p>SUL:n kilpailuvaliokunta nimeää ylituomarin kaikkiin SM-kisoihin. </p>
+<p>Kilpailunjärjestäjä hankkii muut tuomarit. Suositus on nimetä heidät SUL:n kävelytuomaripaneelista. </p>
+<p>Mestaruuskilpailusääntöjen mukaan:</p>
 <ul>
-<li>Ratakilpailuissa normaalisti 5 tuomaria sekä ylituomari</li>
-<li>Maantiekilpailutissa 5-8 tuomaria sekä ylituomari (reitin muoto ja pituus huomioitava)</li>
-<li>SM-kisoissa<ul>
-<li>SUL:n kilpailuvaliokunta nimeää ylituomarin.</li>
-<li>Kilpailunjärjestäjä hankkii muut tuomarit. Suositus on nimetä heidät SUL:n kävelytuomaripaneelista.</li>
-<li>Tuomitsevista tuomareista vähintään puolet on oltava SUL:n paneelista.</li>
-<li>Yleisen sarjan SM-kisoissa vähintään kolmen tuomarin on oltava kansaivälisiä tuomareita, jotta kisa on ranking-kelpoinen. </li>
-</ul>
-</li>
+<li>Vähintään puolet tuomareista (ylituomari mukaan lukien) on oltava SUL:n kilpakävelytuomaripaneelista (tai kansainvälisiä tuomareita).</li>
+<li>Yleisen sarjan SM-kisojen kävelykilpailut on järjestettävä WA:n ranking-kilpailuina. Tällöin vähintään kolmen tuomitsevan tuomarin on oltava kansainvälisiä tuomareita, jotta kisa olisi ranking-kelpoinen. </li>
 </ul>
 <h2 id="kavelytuomarin-varusteet">Kävelytuomarin varusteet</h2>
-<p><img align="right" alt="" src="../img/tuomarin_hihanauha.png" /></p>
+<p><a class="glightbox" href="../img/tuomarin_hihanauha.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img align="right" alt="" src="../img/tuomarin_hihanauha.png" /></a></p>
 <ul>
 <li>Tunniste (esim. lakki, hihanauha, merkki, toimitsija-asu)</li>
 <li>Pöytäkirjat</li>
@@ -747,7 +748,7 @@
 <li>Tarvittaessa sadevarusteet </li>
 <li>Pitkissä tuomaritehtävissä saatavilla juotavaa ja ravintoa</li>
 </ul>
-<p><img alt="" src="../img/tuomarivalineet.jpg" /></p>
+<p><a class="glightbox" href="../img/tuomarivalineet.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/tuomarivalineet.jpg" /></a></p>
 <h2 id="aikasakkoalueen-kaytto-suomessa">Aikasakkoalueen käyttö Suomessa</h2>
 <ul>
 <li>Kaikissa kansainvälisissä kilpailuissa</li>
@@ -761,8 +762,8 @@
 <li>10 m pitkä, ratakävelyissä radat 5-7, maantiekävelyssä leveys määräytyy reitti huomioon ottaen</li>
 <li>Sisäänkäynti ja uloskäynti alueen päätyihin.</li>
 </ul>
-<p><img alt="" src="../img/aikasakkoalue_radalla.png" />
-<img alt="" src="../img/aikasakkoalue_maantiella.png" /></p>
+<p><a class="glightbox" href="../img/aikasakkoalue_radalla.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/aikasakkoalue_radalla.png" /></a>
+<a class="glightbox" href="../img/aikasakkoalue_maantiella.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/aikasakkoalue_maantiella.png" /></a></p>
 <h3 id="aikasakkoalueen-toimitsijat-ja-tehtavat">Aikasakkoalueen toimitsijat ja tehtävät</h3>
 <ul>
 <li>Kaksi toimitsijaa</li>
@@ -771,9 +772,9 @@
 <li>Kirjataan urheilijan tuloaika ja lähtöaika</li>
 <li>Ilmoitus urheilijalle 10 sek. ennen aikasakon päättymistä</li>
 </ul>
-<p><img alt="" src="../img/aikasakkoalue_ohjaus.png" />
-<img alt="" src="../img/aikasakkoalue_tulo.png" />
-<img alt="" src="../img/aikasakkoalue_lahto.png" /></p>
+<p><a class="glightbox" href="../img/aikasakkoalue_ohjaus.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/aikasakkoalue_ohjaus.png" /></a>
+<a class="glightbox" href="../img/aikasakkoalue_tulo.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/aikasakkoalue_tulo.png" /></a>
+<a class="glightbox" href="../img/aikasakkoalue_lahto.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/aikasakkoalue_lahto.png" /></a></p>
 <h3 id="aikasakot">Aikasakot</h3>
 <table>
 <thead>
@@ -810,15 +811,15 @@
 <li>tuomarin henkilökohtainen lähetti </li>
 <li>polkupyörälähetti</li>
 </ul>
-<p><img alt="" src="../img/lahetti_polkupyora.png" /></p>
+<p><a class="glightbox" href="../img/lahetti_polkupyora.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/lahetti_polkupyora.png" /></a></p>
 <h2 id="varoitustaulu">Varoitustaulu</h2>
 <ul>
 <li>elektroninen tai manuaalinen</li>
 <li>sarakkeet urheilijan numerolle sekä neljälle “punaiselle”</li>
 <li>varoituksen syy merkittävä</li>
 </ul>
-<p><img alt="" src="../img/varoitustaulu.jpg" style="width: 50%" />
-<img alt="" src="../img/varoitustaulu_elektroninen.jpg" /></p>
+<p><a class="glightbox" href="../img/varoitustaulu.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/varoitustaulu.jpg" style="width: 50%" /></a>
+<a class="glightbox" href="../img/varoitustaulu_elektroninen.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/varoitustaulu_elektroninen.jpg" /></a></p>
 <h2 id="maantiereitti">Maantiereitti</h2>
 <ul>
 <li>Reitin pituus 1-2 km</li>
@@ -830,8 +831,8 @@
 </ul>
 </li>
 </ul>
-<p><img alt="" src="../img/reittisuunnitelma.png" /></p>
-<p><img alt="" src="../img/kaantopaikka.jpg" /></p>
+<p><a class="glightbox" href="../img/reittisuunnitelma.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/reittisuunnitelma.png" /></a></p>
+<p><a class="glightbox" href="../img/kaantopaikka.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/kaantopaikka.jpg" /></a></p>
 <h2 id="juoma-sieni-ja-virvokeasemat">Juoma, sieni- ja virvokeasemat</h2>
 <ul>
 <li>Lähdössä ja maalissa vettä saatavilla</li>
@@ -840,8 +841,8 @@
 <li>virvokeasemalla henkilökohtaiset juomat</li>
 <li>valtuutetut henkilöt voivat ojentaa juomat</li>
 </ul>
-<p><img alt="" src="../img/vesiasema.jpg" />
-<img alt="" src="../img/virvokeasema.jpg" /></p>
+<p><a class="glightbox" href="../img/vesiasema.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/vesiasema.jpg" /></a>
+<a class="glightbox" href="../img/virvokeasema.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/virvokeasema.jpg" /></a></p>
 <p>Kilpailijoiden suoritus tulee hylätä, jos hän ottaa virvokkeita muualla kuin virallisella virvokeasemilla.
 Hylkäyksen suorittaa lajinjohtaja.
 Toimihenkilö ei saa koskaan juosta (tai kävellä) kilpailijan vierellä tämän nauttiessa virvokkeitaan.</p>
@@ -849,7 +850,7 @@ Toimihenkilö ei saa koskaan juosta (tai kävellä) kilpailijan vierellä tämä
 <h2 id="reitilta-poistuminen">Reitiltä poistuminen</h2>
 <p>Virallisen toimihenkilön valvonnassa ja  luvalla</p>
 <p>Mikäli käveltävää matkaa lyhennetään tai poistutaan luvattomasti reitiltä on kilpailija hylättävä. Hylkäyksen suorittaa lajinjohtaja.</p>
-<p><img alt="" src="../img/bajamaja.jpg" /></p>
+<p><a class="glightbox" href="../img/bajamaja.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="../img/bajamaja.jpg" /></a></p>
 <h2 id="turvallisuus-kilpailuissa">Turvallisuus kilpailuissa</h2>
 <p>Kävelykilpailujen järjestäjien on varmistettava kilpailijoiden turvallisuus. </p>
 <p>Reitti tulisi sulkea mahdollisuuksien mukaan muulta liikenteeltä ja minimoida läpikulkuliikenne reitillä.</p>
@@ -907,5 +908,7 @@ Toimihenkilö ei saa koskaan juosta (tai kävellä) kilpailijan vierellä tämä
       <script src="../assets/javascripts/bundle.56dfad97.min.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

@@ -1,5 +1,7 @@
 # Kävelykilpailujen järjestelyt
 
+Tässä osiossa tarkastellaan kilpailunjärjestäjän vastuulle kuuluvia seikkoja kävelykilpailun järjestämisessä. 
+
 ## Tarvittavat henkilöt
 
 - Kilpailujen johtaja
@@ -26,7 +28,7 @@
 
 Ratakilpailuissa on normaalisti 5 tuomitsevaa tuomaria sekä ylituomari.
 
-Maantiekilpailuissa on 5-8 tuomitsevaa tuomaria sekä ylituomari. Tuomarien määrän määrittämisessä on huomioitava reitin muoto ja pituus. 
+Maantiekilpailuissa on normaalisti 5-8 tuomitsevaa tuomaria sekä ylituomari. Tuomarien määrän määrittämisessä on huomioitava reitin muoto ja pituus. 
 
 ### Tuomarit SM-kisoissa
 

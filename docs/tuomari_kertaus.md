@@ -4,7 +4,7 @@
 
 WA – yleisurheilun säännöt, sääntö TR 54 kilpakävely
 
-### Kilpakävelyn määritelmä TR 54.2
+### Kilpakävelyn määritelmä [TR54.2](./saannot.md#54.2) 
 
 1. Kilpakävely on etenemistä askelia ottaen niin, että kävelijä säilyttää kosketuksen maahan siten, ettei ihmissilmällä havaittavaa kosketuksen irtaantumista esiinny. 
 2. Etummaisen jalan täytyy olla suorana (ei taivutettuna polvesta eli ns. ”koukkupolvi”) maakosketuksen alkamishetkestä lähtien siihen asti, kun se on pystysuorassa asennossa.
@@ -25,20 +25,20 @@ WA – yleisurheilun säännöt, sääntö TR 54 kilpakävely
 
     ![](./img/kilpakavelyaskel.jpg)
 
-### Vakiomatkat TR 54.1
+### Vakiomatkat [TR54.1](./saannot.md#54.1)
 
 - 200m rata: 3000 m, 5000 m 
 - 400m rata: 5000 m, 10000 m, 20000 m, 35 000 m, 50 000 m                             
 - Maantie: 10 km, 20 km, 35 km ja 50 km
 
-### Huomautukset (keltainen laikka) TR 54.5
+### Huomautukset (keltainen laikka) [TR54.5](./saannot.md#54.5)
 
 - Tuomarin tulisi huomauttaa kilpailijaa, mikäli mahdollista, kun hänen kävelytapansa on tuomarin mielestä sellainen, että se ei täysin täytä säännössä TR54.2 asetettua kilpakävelyn määritelmää.
 - Tuomarin huomautus tapahtuu näyttämällä kilpailijalle keltaista laikkaa, jonka kummallakin puolella on kuvattuna rikkomusta osoittava symboli. 
 - Kävelijä ei voi saada toista huomautusta samasta rikkomuksesta samalta tuomarilta. 
 - Huomautettuaan jotakuta kilpailijaa tuomarin on ilmoitettava toimenpiteestään ylituomarille kilpailun jälkeen. 
 
-### Hylkäysesitykset = varoitukset (punaiset kortit) TR 54.6 
+### Hylkäysesitykset = varoitukset (punaiset kortit) [TR54.6](./saannot.md#54.6)
 
 - Tuomarin havaittua, että kilpailijan kävelytapa on missä tahansa kilpailun vaiheessa säännössä TR54.2 annetun määritelmän vastainen joko ihmissilmällä havaittavan kosketuksen irtaantumisen tai "koukkupolven" muodossa, hänen on toimitettava ylituomarille kyseistä kilpailijaa koskeva hylkäysesitys punaisella kortilla (Red Card).
 
@@ -48,11 +48,11 @@ Kävelytuomarit varmistavat, että kaikki kilpailijat suorittavat kilpailun laj
 
 Tuomitseva tuomari
 
-- työskentelee itsenäisesti, ja päätöksenteko perustuu omiin näköhavaintoihin (TR54.3.2). 
+- työskentelee itsenäisesti, ja päätöksenteko perustuu omiin näköhavaintoihin ([TR54.3.2](./saannot.md#54.3.2)). 
 - ei tuomitse ennakkoasenteiden pohjalta
 - noudattaa ylituomarin ohjeita
 - ei keskustele yleisön tms. kanssa
-- osallistuu ylituomarin valintaan aloituskokouksessa, mikäli ylituomaria ei ole valittu etukäteen (TR54.3.1)
+- osallistuu ylituomarin valintaan aloituskokouksessa, mikäli ylituomaria ei ole valittu etukäteen ([TR54.3.1](./saannot.md#54.3.1))
 
 ### Huomautukset ja varoitukset
 

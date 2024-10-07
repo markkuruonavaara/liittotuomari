@@ -2,6 +2,9 @@ site_name: Kilpakävelyn liittotuomarikoulutus
 theme: 
   name: material
   language: fi
+  features:
+  - search.suggest
+  - search.highlight
 nav:
   - 'Tuomitseva tuomari': 'tuomari_kertaus.md'
   - 'Ylituomari': 'ylituomari.md'
@@ -11,6 +14,8 @@ nav:
   - 'Videoharjoituksia': 'videoharjoituksia.md'
   - 'Säännöt 2024': 'saannot.md'
 plugins:
+  - search
+  - autorefs
   - glightbox
 markdown_extensions:
   - admonition

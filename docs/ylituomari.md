@@ -63,19 +63,24 @@ Suomessa tätä sääntöä sovelletaan myös SM-kilpailuissa ja kaikissa kansai
 
 ## Kävelykilpailun tuomaritiimi
 
-Kävelykilpailun tuomaristiimissä on ylituomari, tuomitsevat tuomarit, sekä ylituomaria avustavat toimitsijat. 
+Kävelykilpailun tuomaritiimissä on __ylituomari__, __tuomitsevat tuomarit__, sekä __ylituomaria avustavat toimitsijat__:
+
+- ylituomarin assistentit ([TR54.4.2](./saannot.md#54.4.2))
+- ylituomarin sihteeri ([TR54.4.2](./saannot.md#54.4.2))
+- varoitustaulun hoitaja ([TR54.4.2](./saannot.md#54.4.2))
+- aikasakkoalueen toimitsijat
 
 Avustajat toimivat ylituomarin ohjeiden mukaisesti eivätkä varsinaisesti anna tuomioita. Ylituomari määrittää tiimin työnjaon ja toimintatavat.
 
-### Tuomarit
+### Tuomarit [TR54.3](./saannot.md#54.3)
 
-Ratakilpailuissa kävelytuomareita tulisi olla kuusi: ylituomari ja 5 tuomaria. 
+Ratakilpailuissa kävelytuomareita tulisi normaalisti olla kuusi: ylituomari ja 5 tuomaria. 
 
 Maantiekilpailuissa tuomareita tulisi olla vähintään kuusi, mutta enintään yhdeksän: ylituomari ja 5-8 tuomaria. 
 
 Jos ylituomaria ei ole etukäteen määrätty, tuomarit valitsevat keskuudestaan ylituomarin.
 
-### Ylituomarin assistentit
+### Ylituomarin assistentit 
 
 Hylkäyksistä ja aikasakoista pitää ilmoittaa kilpailijalle mahdollisimman nopeasti kilpailun aikana. 
 

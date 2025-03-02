@@ -23,11 +23,12 @@ Pitkälahkeisten housujen käyttö kilpakävelyssä voi haitata tuomarin toimint
 
 SM-kilpailujen matkat määritellään Yleisurheilun mestaruuskilpailusäännöissä seuraavasti:
 
-| NAISET  | rata    | maantie    | MIEHET  | rata    | maantie    |
-| :-----  | :------ | :--------- | :-----  | :------ | :--------- |
-| __N__   | 10000 m | 20 km      | __M__   | 10000 m | 20 km       |
-| __N22__ | 5000 m  | 20 km      | __M22__ | 5000 m  | 20 km      |
-| __N19__ | 5000 m  | 10 km      | __M19__ | 5000 m  | 10 km      |
-| __N17__ | 3000 m  | 5 km       | __M17__ | 3000 m  | 5 km       |
-| __T15__ | 3000 m  | 5 km       | __P15__ | 3000 m  | 5 km       |
+| sarja       | rata    | maantie | halli   |
+| :-----      | :------ | :------ | :------ |
+| __N__/__M__ | 10000 m | 20 km   | 5000 m  |
+| __N/M22__   | 5000 m  | -       | 5000 m  |
+| __N/M19__   | 5000 m  | 10 km   | 5000 m  |
+| __N/M17__   | 3000 m  | 5 km    | 3000 m  |
+| __T/P15__   | 3000 m  | 5 km    | 3000 m  |
+
 

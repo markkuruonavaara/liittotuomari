@@ -1,6 +1,6 @@
 # Toimintaohjeita ylituomarille 
 
-Ylituomari organisoi ja johtaa kävelykilpailun tuomaritoiminnan. Tehtävät jakautuvat ajallisesti seuraavasti:
+Ylituomari organisoi tuomaritoiminnan ja johtaa sitä. Tehtävät jakautuvat ajallisesti seuraavasti:
 
 1. Suunnitteluvaihe
 2. Valmistelut ennen kisapäivää
@@ -61,7 +61,7 @@ Ylituomarin tehtävät kisapäivänä ovat:
 1. Aloita tilaisuus selkeästi ja esittele kilpailu 
 2. Kerro aikataulu tuomarien osalta
 3. Jaa reittikartta ja määritä tuomarien alueet ja numerot
-4. Kerro käytettävät tuomarointisysteemit
+4. Kerro kilpailun yleiset tiedot: kilpailunumerot, lähtölistat yms.
 5. Jaa tai varmista että tuomareilla on:
      - Keltaiset huomautuslaikat
      - Punaiset kortit ja pöytäkirjat

@@ -126,20 +126,27 @@ Mestaruuskilpailusääntöjen mukaan:
 
 ## Juoma, sieni- ja virvokeasemat
 
-- Lähdössä ja maalissa vettä saatavilla
-- 5-10 km: vesi- ja sieniasemat
-- Yli 10 km: vesi- ja sieniasema sekä virvokeasema
-- virvokeasemalla henkilökohtaiset juomat
-- valtuutetut henkilöt voivat ojentaa juomat
+Vettä (ja muita sopivia virvokkeita) tulee olla saatavilla kaikkien kilpailujen lähdössä ja maalissa.
+
+Kilpailuissa, joiden pituus on 5-10km tulee olla vain vettä tarjoavia juoma- ja sieniasemia sopivin välein, _jos sääolosuhteet sitä edellyttävät_.
+
+Kilpailuissa, joiden pituus on yli 10 km, tulee olla asetettuna virvokeasema kävelyreitin jokaisella kierroksella. Vesi- ja sieniasemia tulee lisäksi sijoittaa aina suunnilleen virvokeasemien puoliväliin tai jopa tiheämmin, jos sääolosuhteet sitä edellyttävät. 
+
+Virvokkeet voivat olla joko urheilijoiden omia tai järjestäjien tarjoamia. Vain valtuutetut henkilöt voivat ojentaa juomat.
+
+|                          | alle 5000m | __5000-10000m/5-10km__ | __yli 10000m/10km__    |
+| :-------------------     | :--------: | :--------------------: | :--------------------: |
+| __vesi- ja sieniasemat__ | ei         | olosuhteiden vaatiessa | olosuhteiden vaatiessa |
+| __virvokeasemat__        | ei         | ei                     | oltava                 |
+
+Myös radalla suoritettavissa kilpailuissa tulee tarvittaessa käyttää virvokeasemaa. Aseman sijoituspaikka takasuoralla 3-4 radoilla.
 
 ![](./img/vesiasema.jpg)
 ![](./img/virvokeasema.jpg)
 
-Kilpailijoiden suoritus tulee hylätä, jos hän ottaa virvokkeita muualla kuin virallisella virvokeasemilla.
-Hylkäyksen suorittaa lajinjohtaja.
-Toimihenkilö ei saa koskaan juosta (tai kävellä) kilpailijan vierellä tämän nauttiessa virvokkeitaan.
+Kilpailijoiden suoritus tulee hylätä, jos hän ottaa virvokkeita muualla kuin virallisella virvokeasemilla. Hylkäyksen suorittaa lajinjohtaja.
 
-Myös radalla suoritettavissa kilpailuissa tulee tarvittaessa käyttää virvokeasemaa. Aseman sijoituspaikka takasuoralla 3-4 radoilla.
+Toimihenkilö ei saa koskaan juosta (tai kävellä) kilpailijan vierellä tämän nauttiessa virvokkeitaan.
 
 ## Reitiltä poistuminen
 

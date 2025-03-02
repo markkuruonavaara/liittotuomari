@@ -14,7 +14,7 @@ Vaatimuksena on piirituomarikoulutuuksen suorittaminen. Piiritason tuomarikoulut
 
 Liittotuomarit toimivat piiritason lisäksi SM-kisoissa ja maaotteluissa kävelytuomareina ja ylituomareina. Lisäksi he toimivat kisajärjestäjien neuvonantajina kävelykilpailujen järjestämiseen liittyvissä kysymyksissä.
 
-Vaatimuksena on liittotuomarikoulutuksen suorittaminen. Liittotason tuomairkouluksesta vastaa Suomen Urheiluliitto.
+Vaatimuksena on liittotuomarikoulutuksen suorittaminen. Liittotason tuomarikoulutuksesta vastaa Suomen Urheiluliitto.
 
 ### Word Athletics:n (WA) kansainväliset tuomarit: Gold, Silver, Bronze
 

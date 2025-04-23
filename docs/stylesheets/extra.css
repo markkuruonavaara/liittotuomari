@@ -1,3 +1,9 @@
 .rule_comment {
   color: green;
+  font-style: italic;
+}
+
+.rule_number {
+  color: black !important;
+  font-weight: bold;
 }

@@ -5,6 +5,8 @@ theme:
   features:
   - search.suggest
   - search.highlight
+extra_css:
+  - stylesheets/extra.css
 nav:
   - 'Tuomitseva tuomari': 'tuomari_kertaus.md'
   - 'Ylituomari': 'ylituomari.md'

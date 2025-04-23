@@ -5,7 +5,9 @@ OSA VI - KÄVELYLAJIT
 # Sääntö TR54 Kilpakävely 
 
 ## Matkat 
+
 [](){#54.1}__54.1__ Vakiomatkat ovat:
+{: #test}
 
 200m rata:  3000 m, 5000 m 
 
@@ -22,6 +24,7 @@ Maantie:  10 km, 20 km, 35 km ja 50 km
 </figure>
 
 _Kommentti: Yllä olevassa määritelmässä sanat ”ihmissilmällä havaittavaa” ovat erittäin tärkeät. Käytännön syistä sääntö on ollut pakko muotoilla sellaiseksi, että tuomaritoiminta kilpailuissa olisi mahdollista hoitaa ihmisvoimin. Näin ollen kävely on kosketuksen osalta puhdasta niin kauan kun normaali ihmissilmä ei havaitse siinä irtaantumista. Jos irtaantumisvaihe on noin 60 millisekuntia tai sitä lyhyempi, ihminen ei voi sitä varmuudella havaita._
+{: .rule_comment }
 
 ## Tuomarityöskentely 
 [](){#54.3}__54.3__   Kilpakävelyn tuomaritoiminta: 
@@ -47,12 +50,14 @@ _Kommentti: Yllä olevassa määritelmässä sanat ”ihmissilmällä havaittava
 [](){#54.4.1}__54.4.1__ Säännön CR0 kohtien 1.1, 1.2, 1.3, 1.4 ja 1.6 alaisissa kilpailuissa ylituomarilla on valtuudet omalla päätöksellään hylätä kilpailija viimeisten 100 metrin matkalla, jos kyseisen kilpailijan kävely on edellä säännössä [TR54.2](#54.2) esitetyn määritelmän vastaista, riippumatta siitä oliko tälle annettu muita hylkäysesityksiä tai ei. Ylituomarin omalla päätöksellä hylätyn kilpailijan sallitaan kävellä maaliin asti (ja hänelle tulee ottaa aika). Ylituomarin tai hänen avustajansa tulee ilmoittaa kilpailijalle hylkäyksestä mahdollisimman nopeasti maaliintulon jälkeen näyttämällä hänelle punaista merkkilaikkaa.  
 
 *Kommentti: Oikeus kävellä maaliin tällaisessa tapauksessa on tärkeä kilpailijan oikeusturvan takia. Jos tuomio jostain syystä peruuntuisi, kilpailijalle löytyy sijoitus ja aika.* 
+{: .rule_comment }
 
 [](){#54.4.2}__54.4.2__ Kävelyn ylituomari toimii kilpailun kulkua (ja tuomareiden työskentelyä) valvovana toimihenkilönä. Tuomitsevana tuomarina hän saa toimia vain edellä säännössä [TR54.4.1](#54.4.1) mainituissa tilanteissa. 
 
 Säännön CR0 kohtien 1.1, 1.2, 1.3 ja 1.6 alaisiin kilpailuihin tulee nimittää kaksi tai useampia ylituomarin avustajia (Chief Judge's Assistant). Ylituomarin avustajien tehtävänä on auttaa syntyneiden hylkäyspäätösten ilmoittamisessa kilpailijoille. He eivät itse missään olosuhteissa toimi tuomareina. 
 
 *Kommentti: Vuosia sitten vain ylituomarilla oli oikeus ilmoittaa hylkäyksistä. Ylituomarin olinpaikasta riippuen oli kävelijä saattanut kolmannen hylkäysesityksen saapumisen jälkeen joutua kävelemään jopa parikin kilometriä ennen kuin ylituomari oli päässyt näyttämään hänelle punaista laikkaa. Sijoittamalla avustajat sopiviin paikkoihin saadaan ilmoitukset perille nopeammin.* 
+{: .rule_comment }
 
 [](){#54.4.3}__54.4.3__ Kaikkiin säännön CR0 kohtien 1.1, 1.2, 1.3 ja 1.6 alaisiin kilpailuihin, ja aina kun mahdollista myös muihin kilpailuihin, tulee nimittää vastuuhenkilö hoitamaan hylkäysesitysten näyttötaulua (tai tauluja) sekä ylituomarille sihteeri. 
 
@@ -67,6 +72,7 @@ Kävelijä ei voi saada toista huomautusta samasta rikkomuksesta samalta tuomari
 [](){#54.6}__54.6__ Tuomarin havaittua, että kilpailijan kävelytapa on missä tahansa kilpailun vaiheessa säännössä [TR54.2](#54.2) annetun määritelmän vastainen joko ihmissilmällä havaittavan kosketuksen irtaantumisen tai "koukkupolven" muodossa, hänen on toimitettava ylituomarille kyseistä kilpailijaa koskeva hylkäysesitys punaisella kortilla (Red Card). 
 
 *Kommentti: WA:n alkuperäisessä sääntökirjassa hylkäysesityksen sisältävän kortin virallisena nimenä on Red Card eli punainen kortti. Suomalaisessa tekstissä puhumme kuitenkin hylkäysesityksestä, koska kyseessä on (vain) yksi hylkäysesitys, joka yksinään ei vielä johda hylkäämiseen. Hyvin yleisestikin urheilussa käsitetään, että jos urheilija ”sai punaisen kortin”, hänet sillä hetkellä hylättiin.* 
+{: .rule_comment }
  
 ## Hylkääminen 
 
@@ -78,6 +84,7 @@ ylituomarin avustaja ilmoittaa kilpailijalle hylkäämisestä näyttämällä t�
 [](){#54.7.2}__54.7.2__ Missään säännön CR0 kohtien 1.1, 1.2, 1.3 ja 1.5 alaisissa kilpailuissa ei kaksi samasta maasta olevaa tuomaria saa koskaan olla ratkaisemassa tietyn kilpailijan hylkäämistä. 
 
 *Kommentti: Tässä ei tarkoiteta sitä, että tuomarit olisivat samasta maasta kuin kyseinen kilpailija (mutta toki voivat joskus ollakin), vaan että tuomarit keskenään ovat samasta maasta. Jos he kumpikin toimittavat samaa kilpailijaa koskevan hylkäysesityksen, se lasketaan yhdeksi hylkäysesitykseksi.*
+{: .rule_comment }
 
 [](){#54.7.3}__54.7.3__  Aikasakkoaluetta (Penalty Zone) tulee käyttää kilpailuissa, joissa kilpailun säännöt sen määräävät. Sitä voidaan myös käyttää, mikäli kilpailun hallinnoiva elin niin päättää. Urheilijaa ei hylätä kolmen hylkäysesityksen (punainen kortti) jälkeen, vaan hänet ohjataan aikasakkoalueelle ylituomarin tai hänen määräämänsä henkilön toimesta. 
 
@@ -148,6 +155,7 @@ johtajalta (refereeltä). Jos rikkomus toistuu, lajin johtaja suorittaa kilpaili
 *HUOM. Urheilija voi ottaa vastaan tai antaa juomaa, virvokkeita tai sieniä toiselta urheilijalta, jos ne on otettu matkaan lähdössä tai virallisilla asemilla. Mikäli havaitaan systemaattista yhden henkilön toimesta tapahtuvaa muiden avustamista, voidaan tämä tulkita sääntöjenvastaiseksi avustamiseksi ja johtaa varoituksiin tai hylkäyksiin.*
 
 *Kommentti: Yleisesti säännöissä, jotka liittyvät stadionin ulkopuolisiin lajeihin on yhdenmukaisuutta. Esimerkiksi säännöt TR54, TR55 ja TR56. On kuitenkin huomattava, että edellä oleva sääntö [TR54.10.5](#54.10.5) on tarkoituksella erilainen kuin sääntö TR55.8.5. Kävelyissä joukkueiden edustajat eivät voi olla asemilla pöytien edessä.*
+{: .rule_comment }
 
 ## Maantieradat 
 
